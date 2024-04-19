@@ -13,7 +13,8 @@ Chocolatey is a popular package manager for Windows that simplifies the process 
 ***Requirements***
 * Windows 7 or newer version of Windows Operating System (Recommended Windows 10 or 11)
 * PowerShell v2+
-* .NET Framework 4+ 
+* .NET Framework 4+
+* 
 
 ***Installation Process***
 * Start Powershell with Administrator rights (Run as Administrator)
